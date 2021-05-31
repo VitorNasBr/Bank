@@ -1,9 +1,9 @@
-# Bank
+# Bank 💰
 ```
 This bank was made with the aim of practicing the knowledge acquired.
 ```
 
-# Struct
+# Struct 🏟
 ```
 Language : C#
 Type: Console App
