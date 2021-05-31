@@ -1,5 +1,6 @@
 # Bank
-This bank was made with the aim of practicing the knowledge acquired
+
+This database was created with the objective of practicing the knowledge acquired in C #
 
 # Developed by
 
