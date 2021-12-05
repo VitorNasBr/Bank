@@ -1,6 +1,6 @@
 # Bank 💰
 ```
-This bank was made with the aim of practicing the knowledge acquired.
+This bank was made to exercise programming logic.
 ```
 
 # Struct 🏟
